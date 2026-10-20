@@ -1,0 +1,151 @@
+order_id,date,product,category,quantity,unit_price,total_sales,region,payment_method
+ORD0001,2026-03-04,Headphones,Electronics,1,1896.26,1896.26,South,Cash
+ORD0002,2026-04-19,Headphones,Electronics,5,1684.17,8420.85,North,Cash
+ORD0003,2026-06-04,Headphones,Electronics,2,1731.38,3462.76,North,UPI
+ORD0004,2026-04-25,Mouse,Electronics,5,547.53,2737.65,East,Cash
+ORD0005,2026-02-09,Keyboard,Electronics,4,932.18,3728.72,South,Card
+ORD0006,2026-04-02,Headphones,Electronics,1,1779.1,1779.1,East,UPI
+ORD0007,2026-05-18,Notebook,Stationery,1,84.11,84.11,North,Card
+ORD0008,2026-06-10,Headphones,Electronics,5,1750.99,8754.95,East,UPI
+ORD0009,2026-02-28,Mouse,Electronics,1,510.54,510.54,East,Cash
+ORD0010,2026-04-27,Mouse,Electronics,1,543.63,543.63,East,Cash
+ORD0011,2026-03-10,Pen Pack,Stationery,3,114.93,344.79,North,UPI
+ORD0012,2026-02-11,Keyboard,Electronics,5,998.68,4993.4,West,Card
+ORD0013,2026-03-25,Notebook,Stationery,5,76.76,383.8,North,Cash
+ORD0014,2026-01-17,Laptop,Electronics,3,41672.81,125018.43,South,UPI
+ORD0015,2026-04-12,Pen Pack,Stationery,2,124.56,249.12,West,Cash
+ORD0016,2026-05-24,Notebook,Stationery,2,77.15,154.3,East,UPI
+ORD0017,2026-04-13,Chair,Home,4,3461.15,13844.6,East,Cash
+ORD0018,2026-01-13,Keyboard,Electronics,5,958.39,4791.95,North,Cash
+ORD0019,2026-04-09,Keyboard,Electronics,4,975.99,3903.96,West,UPI
+ORD0020,2026-05-22,Water Bottle,Accessories,5,337.84,1689.2,North,UPI
+ORD0021,2026-06-14,Headphones,Electronics,5,1899.28,9496.4,East,Cash
+ORD0022,2026-01-01,Notebook,Stationery,4,75.88,303.52,East,UPI
+ORD0023,2026-06-10,Keyboard,Electronics,5,1030.06,5150.3,East,UPI
+ORD0024,2026-04-06,Desk Lamp,Home,5,860.22,4301.1,South,UPI
+ORD0025,2026-05-06,Desk Lamp,Home,1,925.03,925.03,North,Cash
+ORD0026,2026-03-03,Pen Pack,Stationery,3,115.57,346.71,North,Cash
+ORD0027,2026-05-17,Water Bottle,Accessories,1,383.61,383.61,South,Cash
+ORD0028,2026-05-16,Water Bottle,Accessories,5,332.4,1662.0,West,Cash
+ORD0029,2026-04-13,Desk Lamp,Home,2,943.5,1887.0,East,Card
+ORD0030,2026-02-27,Desk Lamp,Home,4,847.6,3390.4,North,Card
+ORD0031,2026-05-31,Laptop,Electronics,5,42827.65,214138.25,South,Cash
+ORD0032,2026-01-09,Headphones,Electronics,1,1730.18,1730.18,East,Cash
+ORD0033,2026-05-05,Desk Lamp,Home,2,873.11,1746.22,South,UPI
+ORD0034,2026-03-04,Keyboard,Electronics,5,972.53,4862.65,West,Card
+ORD0035,2026-04-21,Mouse,Electronics,1,515.6,515.6,East,Card
+ORD0036,2026-01-14,Backpack,Accessories,4,1505.69,6022.76,North,Cash
+ORD0037,2026-01-28,Backpack,Accessories,3,1489.75,4469.25,South,Cash
+ORD0038,2026-04-19,Mouse,Electronics,5,550.41,2752.05,South,Card
+ORD0039,2026-01-20,Water Bottle,Accessories,2,377.09,754.18,West,UPI
+ORD0040,2026-05-19,Headphones,Electronics,1,1867.29,1867.29,North,Cash
+ORD0041,2026-05-04,Mouse,Electronics,2,546.23,1092.46,South,Card
+ORD0042,2026-04-10,Laptop,Electronics,2,41505.04,83010.08,East,Card
+ORD0043,2026-05-23,Notebook,Stationery,4,83.63,334.52,West,Cash
+ORD0044,2026-01-15,Mouse,Electronics,3,527.55,1582.65,North,UPI
+ORD0045,2026-05-03,Pen Pack,Stationery,1,111.48,111.48,South,Cash
+ORD0046,2026-01-18,Desk Lamp,Home,1,965.92,965.92,North,UPI
+ORD0047,2026-05-26,Mouse,Electronics,4,517.87,2071.48,South,UPI
+ORD0048,2026-04-18,Chair,Home,1,3300.76,3300.76,East,Card
+ORD0049,2026-04-12,Mouse,Electronics,3,529.63,1588.89,South,UPI
+ORD0050,2026-01-19,Notebook,Stationery,4,78.15,312.6,North,Card
+ORD0051,2026-01-19,Chair,Home,5,3517.75,17588.75,South,UPI
+ORD0052,2026-01-18,Notebook,Stationery,2,87.04,174.08,South,Card
+ORD0053,2026-05-20,Notebook,Stationery,2,79.91,159.82,East,UPI
+ORD0054,2026-05-22,Desk Lamp,Home,1,936.19,936.19,East,UPI
+ORD0055,2026-01-28,Headphones,Electronics,2,1741.69,3483.38,South,Card
+ORD0056,2026-03-29,Notebook,Stationery,5,76.63,383.15,South,UPI
+ORD0057,2026-01-14,Notebook,Stationery,5,80.63,403.15,North,UPI
+ORD0058,2026-03-27,Backpack,Accessories,3,1299.11,3897.33,South,UPI
+ORD0059,2026-05-22,Notebook,Stationery,2,84.27,168.54,West,UPI
+ORD0060,2026-06-26,Laptop,Electronics,1,39208.84,39208.84,South,UPI
+ORD0061,2026-02-07,Laptop,Electronics,3,43043.77,129131.31,West,Cash
+ORD0062,2026-01-11,Laptop,Electronics,3,41396.77,124190.31,East,Cash
+ORD0063,2026-05-24,Mouse,Electronics,1,541.01,541.01,West,UPI
+ORD0064,2026-02-15,Keyboard,Electronics,2,1021.85,2043.7,West,Cash
+ORD0065,2026-04-16,Keyboard,Electronics,3,1007.79,3023.37,South,Card
+ORD0066,2026-01-10,Keyboard,Electronics,1,939.41,939.41,West,Cash
+ORD0067,2026-02-28,Mouse,Electronics,4,540.62,2162.48,South,Cash
+ORD0068,2026-01-18,Mouse,Electronics,4,538.5,2154.0,East,Card
+ORD0069,2026-05-18,Desk Lamp,Home,4,938.08,3752.32,East,Cash
+ORD0070,2026-03-09,Headphones,Electronics,3,1713.86,5141.58,North,Cash
+ORD0071,2026-03-22,Chair,Home,4,3143.12,12572.48,West,UPI
+ORD0072,2026-05-28,Desk Lamp,Home,1,890.4,890.4,South,Card
+ORD0073,2026-05-18,Laptop,Electronics,4,38652.79,154611.16,South,Card
+ORD0074,2026-03-26,Backpack,Accessories,1,1527.12,1527.12,East,UPI
+ORD0075,2026-06-20,Headphones,Electronics,3,1820.31,5460.93,West,Card
+ORD0076,2026-02-19,Backpack,Accessories,3,1427.71,4283.13,West,UPI
+ORD0077,2026-03-19,Backpack,Accessories,2,1443.11,2886.22,West,UPI
+ORD0078,2026-04-21,Laptop,Electronics,3,40809.07,122427.21,East,Card
+ORD0079,2026-05-11,Water Bottle,Accessories,4,364.56,1458.24,West,UPI
+ORD0080,2026-06-19,Keyboard,Electronics,1,922.53,922.53,East,Cash
+ORD0081,2026-02-20,Mouse,Electronics,3,528.24,1584.72,South,Cash
+ORD0082,2026-06-06,Laptop,Electronics,2,46078.56,92157.12,North,Card
+ORD0083,2026-06-28,Backpack,Accessories,5,1337.0,6685.0,West,Card
+ORD0084,2026-06-26,Backpack,Accessories,2,1325.19,2650.38,North,Cash
+ORD0085,2026-06-28,Backpack,Accessories,2,1332.32,2664.64,West,Cash
+ORD0086,2026-02-01,Desk Lamp,Home,2,976.63,1953.26,West,Cash
+ORD0087,2026-06-02,Water Bottle,Accessories,5,384.24,1921.2,East,Card
+ORD0088,2026-05-21,Chair,Home,5,3189.8,15949.0,West,Cash
+ORD0089,2026-03-05,Water Bottle,Accessories,4,338.33,1353.32,East,UPI
+ORD0090,2026-01-20,Water Bottle,Accessories,2,339.3,678.6,East,Cash
+ORD0091,2026-05-19,Notebook,Stationery,3,78.2,234.6,North,Cash
+ORD0092,2026-02-09,Keyboard,Electronics,2,939.5,1879.0,South,Cash
+ORD0093,2026-04-30,Backpack,Accessories,4,1371.38,5485.52,West,Cash
+ORD0094,2026-05-30,Mouse,Electronics,4,544.56,2178.24,North,UPI
+ORD0095,2026-04-01,Backpack,Accessories,4,1289.49,5157.96,East,Card
+ORD0096,2026-05-20,Backpack,Accessories,5,1476.37,7381.85,South,Card
+ORD0097,2026-01-08,Mouse,Electronics,3,549.15,1647.45,West,Card
+ORD0098,2026-02-02,Backpack,Accessories,2,1499.81,2999.62,North,Card
+ORD0099,2026-01-22,Chair,Home,5,3325.89,16629.45,West,Cash
+ORD0100,2026-04-08,Water Bottle,Accessories,2,325.17,650.34,East,Cash
+ORD0101,2026-04-08,Water Bottle,Accessories,3,343.26,1029.78,East,Card
+ORD0102,2026-05-19,Notebook,Stationery,1,80.37,80.37,North,Card
+ORD0103,2026-06-16,Mouse,Electronics,1,583.34,583.34,North,Cash
+ORD0104,2026-06-09,Mouse,Electronics,2,589.08,1178.16,South,Cash
+ORD0105,2026-05-25,Keyboard,Electronics,4,988.48,3953.92,South,Card
+ORD0106,2026-06-05,Notebook,Stationery,3,76.02,228.06,North,Cash
+ORD0107,2026-03-21,Notebook,Stationery,1,81.93,81.93,West,Card
+ORD0108,2026-06-10,Mouse,Electronics,1,564.62,564.62,South,Cash
+ORD0109,2026-05-25,Notebook,Stationery,5,85.2,426.0,North,Card
+ORD0110,2026-01-18,Desk Lamp,Home,4,935.17,3740.68,East,Cash
+ORD0111,2026-04-03,Backpack,Accessories,4,1314.6,5258.4,West,UPI
+ORD0112,2026-05-14,Keyboard,Electronics,4,904.12,3616.48,East,UPI
+ORD0113,2026-06-01,Desk Lamp,Home,4,903.31,3613.24,East,Card
+ORD0114,2026-04-26,Mouse,Electronics,1,533.61,533.61,South,Card
+ORD0115,2026-03-28,Chair,Home,5,3328.88,16644.4,North,Card
+ORD0116,2026-04-01,Pen Pack,Stationery,2,120.93,241.86,East,Card
+ORD0117,2026-03-12,Notebook,Stationery,5,83.7,418.5,North,UPI
+ORD0118,2026-04-15,Mouse,Electronics,1,529.89,529.89,West,UPI
+ORD0119,2026-05-06,Mouse,Electronics,4,569.94,2279.76,West,Cash
+ORD0120,2026-06-27,Headphones,Electronics,3,1727.8,5183.4,South,Card
+ORD0121,2026-05-16,Chair,Home,3,3216.6,9649.8,East,Card
+ORD0122,2026-04-27,Desk Lamp,Home,3,884.99,2654.97,East,Card
+ORD0123,2026-02-19,Notebook,Stationery,2,75.34,150.68,East,Cash
+ORD0124,2026-05-04,Desk Lamp,Home,2,859.03,1718.06,East,UPI
+ORD0125,2026-01-26,Chair,Home,5,3287.75,16438.75,South,Card
+ORD0126,2026-01-04,Mouse,Electronics,3,523.76,1571.28,South,Card
+ORD0127,2026-06-28,Laptop,Electronics,1,42823.39,42823.39,South,UPI
+ORD0128,2026-05-27,Water Bottle,Accessories,1,376.98,376.98,East,Card
+ORD0129,2026-01-14,Water Bottle,Accessories,4,343.46,1373.84,East,Card
+ORD0130,2026-01-19,Headphones,Electronics,1,1785.83,1785.83,North,Cash
+ORD0131,2026-01-22,Keyboard,Electronics,5,1036.3,5181.5,South,Cash
+ORD0132,2026-06-08,Desk Lamp,Home,4,926.22,3704.88,South,UPI
+ORD0133,2026-03-18,Backpack,Accessories,4,1516.94,6067.76,West,Card
+ORD0134,2026-01-26,Chair,Home,5,2978.69,14893.45,South,UPI
+ORD0135,2026-02-10,Mouse,Electronics,3,571.38,1714.14,South,Cash
+ORD0136,2026-04-15,Desk Lamp,Home,1,853.36,853.36,West,UPI
+ORD0137,2026-03-01,Chair,Home,4,3111.77,12447.08,East,UPI
+ORD0138,2026-03-01,Notebook,Stationery,4,74.62,298.48,East,UPI
+ORD0139,2026-05-20,Chair,Home,2,3188.88,6377.76,South,UPI
+ORD0140,2026-01-19,Keyboard,Electronics,3,1015.35,3046.05,North,Cash
+ORD0141,2026-05-26,Notebook,Stationery,5,84.38,421.9,East,Card
+ORD0142,2026-06-29,Headphones,Electronics,4,1879.13,7516.52,West,Card
+ORD0143,2026-01-21,Desk Lamp,Home,5,907.99,4539.95,North,Card
+ORD0144,2026-01-24,Pen Pack,Stationery,5,115.81,579.05,South,UPI
+ORD0145,2026-06-22,Chair,Home,5,3491.65,17458.25,East,UPI
+ORD0146,2026-06-16,Laptop,Electronics,2,42196.99,84393.98,West,Card
+ORD0147,2026-05-06,Keyboard,Electronics,5,948.54,4742.7,North,Card
+ORD0148,2026-06-21,Pen Pack,Stationery,4,117.6,470.4,North,Cash
+ORD0149,2026-03-15,Pen Pack,Stationery,4,125.38,501.52,West,UPI
+ORD0150,2026-03-06,Laptop,Electronics,4,39305.73,157222.92,East,Cash

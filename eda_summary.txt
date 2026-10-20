@@ -1,0 +1,16 @@
+RETAIL SALES EDA - KEY FINDINGS
+===============================
+Rows analysed: 150
+Columns: 9
+Missing values total: 0
+Duplicate rows: 0
+Total sales revenue: Rs. 1,827,892.50
+Number of orders: 150
+Total units sold: 462
+Average order value: Rs. 12,185.95
+
+Top product by sales: Laptop - Rs. 1,368,333.00
+Top category by sales: Electronics - Rs. 1,523,709.72
+Top region by sales: South - Rs. 704,264.62
+
+Note: Synthetic sample dataset created for learning and demonstration.
